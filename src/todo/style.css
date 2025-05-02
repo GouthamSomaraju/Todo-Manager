@@ -1,0 +1,18 @@
+input {
+    width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #95eb50;
+  border-radius: 5px;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+
+  }
+  
+  input:focus {
+    color: black;
+    border-color: #00b36e;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px #ffd000, 0 0 20px #ff00d4, 0 0 30px #2f3530;
+  
+  }
